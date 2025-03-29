@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/bad_script</item>
+        <item>@font/bangers</item>
+        <item>@font/biz_udgothic</item>
+        <item>@font/bricolage_grotesque</item>
+        <item>@font/bungee_spice</item>
+        <item>@font/comic_neue</item>
+        <item>@font/dokdo</item>
+    </array>
+</resources>
