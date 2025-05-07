@@ -9,8 +9,8 @@
     tools:context=".Tela3">
 
     <LinearLayout
-        android:layout_width="355dp"
-        android:layout_height="789dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:background="#FFE26C"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"

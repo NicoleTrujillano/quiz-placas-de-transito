@@ -38,9 +38,9 @@ public class Tela3 extends AppCompatActivity {
         rdb8 = findViewById(R.id.rdb8);
         btnConfirmar2 = findViewById(R.id.btnConfirmar2);
 
+
+
     }
-
-
     public void confirmar2(View view){
         String nome = getIntent().getStringExtra("nome_usuario");
         int acertos = getIntent().getIntExtra("acertos", 0);
